@@ -1,5 +1,6 @@
 {
 	"language" : "Spanish",
 	"methodAccessLevel" : "private",
-	"fontSize" : 12
+	"fontSize" : "12",
+	"excludes" : 	["pattern1", "pattern2"]
 }
